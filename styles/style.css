@@ -29,7 +29,7 @@ div {
 
 
 .logo_place_header {
-  position: absolute;  
+  position: absolute;
   margin-top: 30px;
   background-image: url(../images/logo_place_header.svg);
   z-index: 1;
@@ -63,8 +63,8 @@ div {
 }
 
 .main-illustration {
-  position: absolute; 
-  background-image: url("../images/header-image.png"); 
+  position: absolute;
+  background-image: url("../images/header-image.png");
   width: 765px;
   height: 608px;
   background-size: cover;
@@ -180,7 +180,7 @@ div {
 }
 
 .feynman {
-  position: relative;  
+  position: relative;
   height: 890px;
   background-color: #f2f2f2;
   z-index: -1;
