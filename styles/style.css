@@ -216,7 +216,7 @@ div {
 }
 
 .feynman__image {
-  position: absolute;  
+  position: absolute;
   width: 867px;
   height: 637px;
   background-size: cover;
@@ -250,13 +250,13 @@ div {
 }
 
 .triangle {
-  position: absolute;  
+  position: absolute;
   background-image: url(../images/kaufman-triangle.svg);
   width: 877px;
   height: 877px;
   background-size: cover;
   bottom: 0px;
-  right: -210px;  
+  right: -210px;
   top: 0px;
 }
 
@@ -266,7 +266,7 @@ div {
   padding: 60px 0 40px 0;
   min-height: 350px;
   color: white;
-  background-color: #1f1f1f;  
+  background-color: #1f1f1f;
 }
 
 
@@ -321,7 +321,7 @@ div {
 
 .social-icon {
   height: 16px;
-  weight: 16px;
+  width: 16px;
   margin-right: 10px;
 }
 
