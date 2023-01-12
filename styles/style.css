@@ -65,7 +65,7 @@ p {
 }
 
 .header__main-illustration {
-  position: absolute; 
+  position: absolute;
   width: 765px;
   height: 608px;
   background-size: cover;
@@ -153,7 +153,7 @@ p {
   width: 1100px;
   list-style: none;
   margin: 0 auto;
-  padding-left: 0;;
+  padding-left: 0;
 }
 
 .table__cell {
