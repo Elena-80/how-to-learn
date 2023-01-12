@@ -2,10 +2,6 @@
   border: 1px solid red;
 } */
 
-p {
-  margin: 0;
-  padding: 0;
-}
 
 .page {
   min-width: 1100px;
@@ -50,6 +46,8 @@ p {
 
 .header__subtitle {  
   position: absolute;
+  margin: 0;
+  padding: 0;
   max-width: 388px;
   font-size: 18px;
   line-height: 25px;
@@ -118,6 +116,8 @@ p {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin: 0;
+  padding: 0;
 }
 
 .two-columns__span-accent {
@@ -167,10 +167,13 @@ p {
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
+  margin: 0;
+  padding: 0;
 }
 
 .table__text {
   margin: 20px 0 0 0;
+  padding: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -196,6 +199,7 @@ p {
 .feynman__subtitle {
   max-width: 648px;
   margin: 70px auto 0 auto;
+  padding: 0;
   text-align: center;
   line-height: 51px;
   font-size: 36px;
